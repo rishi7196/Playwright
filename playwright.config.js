@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig, devices } from '@playwright/test';
+import { trace } from 'console';
 /**
  * Read environment variables from file.
  * https://github.com/motdotla/dotenv
@@ -20,7 +21,9 @@ import { defineConfig, devices } from '@playwright/test';
 
   use: {
     browserName: 'chromium',
-    headless: false
+    headless: false,
+    screenshot: 'on',
+    trace:'on'
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */
   },
 });

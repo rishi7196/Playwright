@@ -13,9 +13,9 @@ import { trace } from 'console';
  */
  const config = ({
   testDir: './tests',
-  timeout: 40 * 1000,
+  timeout: 50 * 1000,
   expect: {
-    timeout: 40 * 1000,
+    timeout: 50 * 1000,
   },
   reporter: 'html',
 

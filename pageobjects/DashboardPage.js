@@ -30,12 +30,15 @@ async searchProductAddCart(productName)
 async navigateToOrders()
 {
     await this.orders.click();
+    
 }
 
 
 async navigateToCart()
 {
-    await this.cart.click();
+   
+      await this.cart.click();
+     await this.page.waitForLoadState("networkidle");
 }
 
 }

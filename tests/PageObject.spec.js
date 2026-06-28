@@ -1,49 +1,32 @@
 const {test, expect} = require('@playwright/test');
-const { LoginPage } = require('../pageobjects/LoginPage');
+const { LoginPage1 } = require('../pageobjects/LoginPage1');
+const { clear } = require('console');
+const dataset=JSON.parse (JSON.stringify(require("../utils/LoginData.json")));
 
-test.only('browser context',async ({browser})=>
+for(const data of dataset)
+{
+ test(`Login with test data with ${data.username}`, async ({ browser }) =>
 {
     const context=await browser.newContext();
     const page=await context.newPage();
 
-    const Username="Admin";
-    const password="admin123";
+    // const Username="Admin";
+    // const password="admin123";
 
-    const loginPage= new LoginPage(page);
+     const loginPage= new LoginPage1(page);
      await  loginPage.goTo();
-     await loginPage.validLogin(Username,password);  
+     await loginPage.validLogin(data.username,data.password);  
 
 
     //get  title
     console.log(await page.title());
     // validate title
     expect(await page .title()).toBe("OrangeHRM")
+   // ENTER TEXT IN TEXT FIELD    
 
-    // ENTER TEXT IN TEXT FIELD
-    
-
-    const admin=await page.locator('a.oxd-main-menu-item[href*="admin"]').first().textContent();
-    console.log(admin);
+    // const admin=await page.locator('a.oxd-main-menu-item[href*="admin"]').first().textContent();
+    // console.log(admin);
 
 });
-test('Invalid login',async ({browser})=>
-{
-    const context=await browser.newContext();
-    const page=await context.newPage();
-    await page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
 
-    //get  title
-    console.log(await page.title());
-    // validate title
-    expect(await page .title()).toBe("OrangeHRM")
-
-    // ENTER TEXT IN TEXT FIELD
-    await page.locator("[name='username']").fill("Admin");
-    await page.locator("[name='password']").fill("admi");  
-    await page.locator("[type='submit']").click();
-
-    // extract text from element
-    const errorMessage=await page.locator('a.oxd-main-menu-item[href*="admin"]').textContent();
-    console.log(errorMessage);
-
-});
+}

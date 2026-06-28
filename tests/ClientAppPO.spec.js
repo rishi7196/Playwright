@@ -6,9 +6,9 @@
  {
    const poManager = new POManager(page);
     //js file- Login js, DashboardPage
-     const username = "anshika@gmail.com";
-     const password = "Iamking@000"
-     const productName = 'Zara Coat 4';
+     const username = "rishi7196@gmail.com";
+     const password = "rishi12345"
+     const productName = 'Zara Coat 3';
      const products = page.locator(".card-body");
      const loginPage = poManager.getLoginPage();
      await loginPage.goTo();

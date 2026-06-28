@@ -1,27 +1,25 @@
-class LoginPage {
+class LoginPage{
 
-constructor(page)
-{
-    this.page = page;
-    this.signInbutton= page.locator("[value='Login']");
-    this.userName = page.locator("#userEmail");
-    this.password = page.locator("#userPassword");
+    constructor(page){  
+        this.page=page;     
+        this.UserName=page.locator("[name='username']");
+        this.Password=page.locator("[name='password']");
+        this.singButton=page.locator("[type='submit']")
+    }
 
+    async goTo()
+    {
+        await  this.page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
+    }
+
+    async validLogin(Username,password)
+    {
+         await this.UserName.fill(Username);
+         await this.Password.fill(password);
+         await this.singButton.click();
+    }
+
+        
 }
+module.exports={LoginPage};
 
-async goTo()
-{
-    await this.page.goto("https://rahulshettyacademy.com/client");
-}
-
-async validLogin(username,password)
-{
-    await  this.userName.type(username);
-     await this.password.type(password);
-     await this.signInbutton.click();
-     await this.page.waitForLoadState('networkidle');
-
-}
-
-}
-module.exports = {LoginPage};

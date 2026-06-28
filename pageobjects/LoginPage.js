@@ -1,9 +1,15 @@
 class LoginPage{
 
-    constructor(page){       
+    constructor(page){  
+        this.page=page;     
         this.UserName=page.locator("[name='username']");
         this.Password=page.locator("[name='password']");
         this.singButton=page.locator("[type='submit']")
+    }
+
+    async goTo()
+    {
+        await  this.page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
     }
 
     async validLogin(Username,password)
@@ -15,4 +21,5 @@ class LoginPage{
 
         
 }
+module.exports={LoginPage};
 

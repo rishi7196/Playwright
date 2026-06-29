@@ -8,11 +8,20 @@ test("Drop Down", async ({page}) =>
         await page.locator("input[name='password']").fill("admin123");
         await page.locator("[type='submit']").click();
         await page.locator("a:has-text('Admin')").click();
+        //static drop down
+        await page.locator(".oxd-select-text").first().click();
+        await page.locator(".oxd-select-dropdown .oxd-select-option")
+          .filter({ hasText: "Admin" })
+          .click();
+  
 
-        await page.locator(".oxd-checkbox-input").first().click();
-        await (expect(page.locator(".oxd-checkbox-input").first()).toBeChecked());
+        //checkbox
+         await (expect(page.locator(".oxd-checkbox-input").first()).toBeChecked());
+         expect(await page.locator(".oxd-checkbox-input").first().isChecked()).toBeTruthy();
 
-        expect(await page.locator(".oxd-checkbox-input").first().isChecked()).toBeFalsy();
+           await page.pause();
+
+        
         
 
 

@@ -17,7 +17,7 @@ async VerifyProductIsDisplayed(productName)
    
     await this.cartProducts.waitFor();
     const bool =await this.getProductLocator(productName).isVisible();
-    xpect(bool).toBeTruthy();
+    expect(bool).toBeTruthy();
 
 }
 

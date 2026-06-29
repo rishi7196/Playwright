@@ -8,7 +8,7 @@ test('browser context',async ({browser})=>
    
 });
 
-test.only('page playwroght test',async ({page})=>
+test('page playwroght test',async ({page})=>
 {
      await page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
      //get title

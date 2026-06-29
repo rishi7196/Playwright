@@ -20,10 +20,9 @@ test('browser context',async ({browser})=>
     await page.locator("[type='submit']").click();
 
 });
+// test.only('Visual testing',async ({page})=>
+// {
+//     await page.goto("https://www.google.com/");
+//     expect(await page.screenshot()).toMatchSnapshot('google.png');
 
-test.only('Visual testing',async ({page})=>
-{
-    await page.goto("https://www.google.com/");
-    expect(await page.screenshot()).toMatchSnapshot('google.png');
-
-});
+// });

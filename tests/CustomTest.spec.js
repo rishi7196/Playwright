@@ -9,7 +9,7 @@
     //js file- Login js, DashboardPage
     //  const username = "rishi7196@gmail.com";
     //  const password = "rishi12345"
-     //const productName = 'ZARA COAT 3';
+     const productName = 'ZARA COAT 3';
      const products = page.locator(".card-body");
      const loginPage = poManager.getLoginPage();
      await loginPage.goTo();

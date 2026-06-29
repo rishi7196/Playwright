@@ -12,7 +12,6 @@ test("GellAllText", async ({browser}) =>
     // get all titile 
     await page.waitForLoadState("networkidle");
     const PrintTitles= await page.locator(".oxd-text").allTextContents();
-   console.log(PrintTitles);
-
+    console.log(PrintTitles);
    console.log(await page.locator(".oxd-text").first().textContent());
 });

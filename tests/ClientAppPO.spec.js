@@ -16,7 +16,6 @@
      const dashboardPage = poManager.getDashboardPage();
      await dashboardPage.searchProductAddCart(productName);
      await dashboardPage.navigateToCart();
-
     const cartPage = poManager.getCartPage();
     await cartPage.VerifyProductIsDisplayed(productName);
     await cartPage.Checkout();

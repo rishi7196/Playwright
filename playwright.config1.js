@@ -26,7 +26,7 @@ import { trace } from 'console';
       name : 'safari',
       use :{
              browserName: 'webkit',
-             headless: false,
+             headless: true,
              screenshot: 'retain-on-failure',
              trace:'retain-on-failure',
               //...devices['iPhone 11'],
@@ -37,7 +37,7 @@ import { trace } from 'console';
       name :'chrome',
       use :{
              browserName: 'chromium',
-             headless: false,
+             headless: true,
              screenshot: 'retain-on-failure',
              trace:'retain-on-failure',
              //viewport : {width:720, height :720}

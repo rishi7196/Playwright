@@ -23,7 +23,7 @@ import { trace } from 'console';
     browserName: 'chromium',
     workers: 1,
      retries :1,
-    headless: false,
+    headless: true,
     screenshot: 'retain-on-failure',
     trace:'retain-on-failure'
     /* Collect trace when retrying the failed test. See https://playwright.dev/docs/trace-viewer */

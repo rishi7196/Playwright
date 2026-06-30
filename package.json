@@ -20,13 +20,16 @@
   },
   "scripts": {
     "test": "npx playwright test tests/browserSession/WebApi.spec.js --headed",
-    "SmokeTest" : "npx playwright test --grep @smoke",
-    "SafariTest" : "npx playwright test --config playwright.config1.js --project=safari"
-},
+    "SmokeTest": "npx playwright test --grep @smoke",
+    "SafariTest": "npx playwright test --config playwright.config1.js --project=safari"
+  },
   "devDependencies": {
     "@playwright/test": "^1.59.1",
     "@types/node": "^24.0.12",
     "allure-commandline": "^2.43.0",
     "allure-playwright": "^3.10.2"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^13.0.0"
   }
 }

@@ -12,7 +12,7 @@ class LoginPage1{
         await  this.page.goto("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
     }
 
-    async validLogin(Username,password)
+    async validLogin(username,password)
     {
          await this.UserName.fill(Username);
          await this.Password.fill(password);

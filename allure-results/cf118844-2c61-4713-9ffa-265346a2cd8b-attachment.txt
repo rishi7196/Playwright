@@ -1,0 +1,92 @@
+[
+  'Admin',
+  'PIM',
+  'Leave',
+  'Time',
+  'Recruitment',
+  'My Info',
+  'Performance',
+  'Dashboard',
+  'Directory',
+  'Maintenance',
+  'Claim',
+  'Buzz',
+  'Dashboard',
+  'Time at Work',
+  'Punched In',
+  'Punched In: Today at 11:50 PM (GMT 5.5)',
+  '10h 30m Today',
+  'This Week',
+  'Jun 29 - Jul 05',
+  '0h 0m ',
+  'My Actions',
+  'No Pending Actions to Perform',
+  'Quick Launch',
+  'Assign Leave',
+  'Leave List',
+  'Timesheets',
+  'Apply Leave',
+  'My Leave',
+  'My Timesheet',
+  'Buzz Latest Posts',
+  'mandaa akhill user',
+  '2026-30-06 01:01 PM',
+  'this is a comment',
+  'mandaa akhill user',
+  '2026-30-06 12:53 PM',
+  'this is a comment',
+  'mandaa akhill user',
+  '2026-30-06 12:52 PM',
+  'this is a comment',
+  'mandaa akhill user',
+  '2026-30-06 12:51 PM',
+  'The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the mo'... 19460 more characters,
+  'mandaa akhill user',
+  '2026-30-06 12:50 PM',
+  'The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.The top 1,000 vocabulary words have been carefully chosen to represent difficult but common words that appear in everyday academic and business writing. These words are also the most likely to appear on the SAT, ACT, GRE, and ToEFL.\n' +
+    'To create this list, we started with the words that give our users the most trouble and then ranked them by how frequently they appear in our corpus of billions of words from edited sources. If you only have time to study one list of words, this is the list.',
+  'Employees on Leave Today',
+  'Mohamed Samir',
+  'CAN - Vacation',
+  '0379',
+  'Employee Distribution by Sub Unit',
+  'Engineering',
+  'Administration',
+  'Human Resources',
+  'Client Services',
+  'تقنيه المعلومات ',
+  'المبيعات',
+  'Unassigned',
+  'Employee Distribution by Location',
+  'Texas R&D',
+  'New York Sales Office',
+  'Canadian Regional HQ',
+  'فرع الرياض الادارة العامة',
+  'Unassigned',
+  'OrangeHRM OS 5.8',
+  '© 2005 - 2026 OrangeHRM, Inc. All rights reserved.'
+]
+Admin

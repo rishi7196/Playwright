@@ -29,7 +29,7 @@ import { trace } from 'console';
              headless: false,
              screenshot: 'retain-on-failure',
              trace:'retain-on-failure',
-              ...devices['iPhone 11'],
+              //...devices['iPhone 11'],
              
      }
     },

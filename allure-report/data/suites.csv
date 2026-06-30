@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11958","@smoke GellAllText","","2026-06-30","passed","2026-06-30","","PrintAllTitle.spec.js","",""
+"","5082","@smoke validate the error message","","2026-06-30","passed","2026-06-30","","MoreValidation.spec.js","",""
+"","13473","@smoke browser context","","2026-06-30","passed","2026-06-30","","ScreenShot.spec.js","",""

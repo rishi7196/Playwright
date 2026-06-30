@@ -21,6 +21,8 @@ import { trace } from 'console';
 
   use: {
     browserName: 'chromium',
+    workers: 1,
+     retries :1,
     headless: false,
     screenshot: 'retain-on-failure',
     trace:'retain-on-failure'
